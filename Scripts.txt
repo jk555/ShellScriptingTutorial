@@ -11,9 +11,9 @@ I. Intro
 		1. i : insert mode
  
 		2. <ESC> : enter command mode
-			i. w : Save / Don't Exit
-			ii. wq : Save / Quit
-			iii. q! : Quit / Discard Changes
+			i. :w -> Save / Don't Exit
+			ii. :wq -> Save / Quit
+			iii. :q! -> Quit / Discard Changes
 			iv. w : Move to front of next word
 			v. b : Move backwards to front of word
 			vi. 0 : Move to start of line
